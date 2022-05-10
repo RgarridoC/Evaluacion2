@@ -1,0 +1,56 @@
+.logo{
+    width: 1px;
+    height: 1px;
+}
+.d123{
+    background-color: rgb(255, 255, 255);
+
+}
+.titulo{
+    color: rgb(0, 0, 0) ;
+
+} 
+.texto{
+    background-color: gray;
+    width: 250px;
+    margin: -10px -10px 0px 40px;
+}
+span.stroke {
+    text-align: center;
+    color: gray;
+    font-family: impact;
+    font-size: 30px;
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+    -webkit-text-fill-color: grey;
+    -webkit-text-stroke: 2px black;
+    }
+
+    span.atencion {
+        text-align: center;
+        color: rgb(247, 232, 17);
+        font-family: impact;
+        font-size: 30px;
+        text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+        -webkit-text-fill-color: rgb(247, 232, 17);
+        -webkit-text-stroke: 2px black;
+        }        
+        .atencion2 {
+            text-align: center;
+            color: rgb(247, 232, 17);
+            font-family: impact;
+            font-size: 20px;
+            text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+            -webkit-text-fill-color: rgb(247, 232, 17);
+            -webkit-text-stroke: 2px black;
+            } 
+
+.hb{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.hb > img.uno{
+    margin: -10px -10px;
+    width: 60px;
+}
