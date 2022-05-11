@@ -54,6 +54,16 @@ span.stroke {
     margin: -10px -10px;
     width: 60px;
 }
+
+body{
+    margin: 0;
+    background-color: white;
+    font-family: 'calibri';
+    color: black;
+    position: relative;
+    padding-bottom: 2.5em;
+    min-height: 100vh;
+}
 .footer{
     background-color: whitesmoke;
     text-align: center;
@@ -64,4 +74,30 @@ span.stroke {
     width: 100%;
     padding: 1em 0;
     border-top: 10px black;
+}
+
+.formulario {
+    width: 500px;
+    background-color: #222529;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    
+
+}
+
+.control{
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: 'calibri';
+    font-size: 15px;
 }
